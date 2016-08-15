@@ -29,7 +29,7 @@ float var8 = 8.0;
 float var9 = 9.0;
 
 
-//inisitalize the device id value.
+//inisitalize the Device ID value.
 int ID = 16;
 
 // define some values used by the panel and buttons
